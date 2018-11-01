@@ -1,2 +1,2 @@
-# matricula_estudiantes
-Sistem de Matrícula para estudiantes
+# Sistema de Matrícula para Estudiantes
+Sistem de Matrícula para Estudiantes
